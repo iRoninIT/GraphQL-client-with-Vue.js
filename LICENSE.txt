@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 iRonin, Ruby on Rails Web Mobile Devs
+Copyright (c) 2018 IRONIN Sp. z o.o. sp. k
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
